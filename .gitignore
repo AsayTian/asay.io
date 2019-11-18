@@ -1,0 +1,15 @@
+c0/
+list.txt
+nohup.out
+out/
+.classpath
+.project
+.settings/
+.metadata
+tmp/
+*.tmp
+*.bak
+*.swp
+build/
+.gradle
+.DS_Store
